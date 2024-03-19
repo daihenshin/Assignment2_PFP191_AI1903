@@ -86,7 +86,7 @@ if __name__ == "__main__":
         elif choice == "4":
             find_longest_increasing_stocks(stocks)
         elif choice == "5":
-            print("Tác giả: [Họ và tên sinh viên] - [MSSV]")
+            print("Tác giả: [Họ và tên sinh viên: Nguyễn Hoành Đạt] - [MSSV: HE190619]")
             break
         else:
             print("Lựa chọn không hợp lệ. Vui lòng chọn lại.")
